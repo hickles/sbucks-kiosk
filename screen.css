@@ -26,8 +26,12 @@ h2 {
   font-family: gotham;
     }
 
-.menu-container {
+.container-fluid {
+  max-width: 1200px;
   margin: 0 auto; 
+}
+
+.menu-container {
   padding: 20px;
 }
 
