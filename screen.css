@@ -27,8 +27,10 @@ h2 {
     }
 
 .menu-container {
+  margin: 0 auto; 
   padding: 20px;
-    }
+  max-width: 1200px;
+}
 
 .card {
   height: 300px;
