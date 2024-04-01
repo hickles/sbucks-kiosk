@@ -17,9 +17,8 @@ h2 {
 
 .sidenav {
   height: 400px; 
-  width: 150px;  
+  width: 100px;  
   position: sticky; 
-  padding: 40px; 
   line-height: 48px;
   font-size: 24px;
   color: #black;
@@ -27,7 +26,6 @@ h2 {
     }
 
 .container-fluid {
-  max-width: 1200px;
   margin: 0 auto; 
 }
 
