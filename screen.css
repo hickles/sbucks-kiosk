@@ -27,6 +27,7 @@ h2 {
 
 .container-fluid {
   margin: 0 auto; 
+  item-align: center;
 }
 
 .menu-container {
