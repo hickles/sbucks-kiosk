@@ -43,7 +43,7 @@ h2 {
   padding-top: 20px;
 }
 
-h3, p (
+h5, p {
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -53,13 +53,13 @@ h3, p (
   font-size: 24px;
   font-family: gotham;
   background-color: #00704A;
-  hover-color: #00704A;
+  color: #ffffff; /* Add text color */
   border-color: #00704A;
   height: 50px;
   width: 200px;
 }
 
-.card .btn:hover {
+.btn-primary:hover {
   background-color: #28a745;  
   border-color: #28a745; 
 }
