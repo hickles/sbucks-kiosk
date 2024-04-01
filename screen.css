@@ -1,1 +1,57 @@
 /* Add screen styles below */
+.hero-section {
+  background-color: #00704A;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  transform: translate(0%, -50%);
+  font-family: Gotham; 
+}
+
+h2 {
+  font-family: Gotham;
+}
+
+.hero-section {
+  height: 100px;
+}
+
+.sidenav {
+  height: 400px; 
+  width: 250px;  
+  position: sticky; 
+  padding: 40px 40px; 
+  line-height: 48px;
+  font-size: 24px;
+  color: #black;
+  font-family: gotham;
+    }
+
+.menu-container {
+  margin: 0px 50px;
+  padding: 20px;
+    }
+
+.card {
+  height: 300px;
+  font-family: gotham;
+}
+
+
+.btn-primary {
+  font-size: 24px;
+  font-family: gotham;
+  background-color: #00704A;
+  hover-color: #00704A;
+  border-color: #00704A;
+  height: 50px;
+  width: 200px;
+}
+
+.card .btn:hover {
+  background-color: #28a745;  
+  border-color: #28a745; 
+}
