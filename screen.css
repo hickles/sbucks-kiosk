@@ -17,7 +17,8 @@ h2 {
 
 .sidenav {
   height: 400px; 
-  width: 100px;  
+  width: 100px;
+  padding-left: 20px;
   position: sticky; 
   line-height: 48px;
   font-size: 24px;
@@ -31,7 +32,7 @@ h2 {
 }
 
 .menu-container {
-  padding: 20px;
+  padding-top: 20px;
 }
 
 .card {
