@@ -43,6 +43,18 @@ h2 {
   padding-top: 20px;
 }
 
+.card-body {
+  text-align: center; 
+}
+
+.card-body p {
+  margin-bottom: 10px; 
+}
+
+.card-body .btn {
+  margin-top: 10px; 
+}
+
 h5, p {
   display: block;
   margin: 0 auto;
